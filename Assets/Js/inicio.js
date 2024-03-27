@@ -1,3 +1,5 @@
+const REF_INDEX = "./index.html";
+
 function goToHome() {
-  window.location.href = "/index.html";
+  window.location.href = REF_INDEX;
 }
