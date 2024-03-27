@@ -6,25 +6,25 @@ Este es un proyecto de sitio web de amor y romance. El sitio web contiene varias
 
 El proyecto tiene la siguiente estructura de directorios:
 
-Assets/ 
-  audio/ 
-  css/ 
-    amarte.css 
-    conocerte.css 
-    home.css 
-    inicio.css 
-  img/
-  Js/
-    amarte.js 
-    conocerte.js
-    home.js
-    inicio.js
-  vid/
-home.html 
-  pages/ 
-    amarte.html
-    conocerte.html
-    Inicio.html
+Assets/
+audio/
+css/
+amarte.css
+conocerte.css
+home.css
+inicio.css
+img/
+Js/
+amarte.js
+conocerte.js
+home.js
+inicio.js
+vid/
+home.html
+pages/
+amarte.html
+conocerte.html
+Inicio.html
 
 ## Cómo ejecutar el proyecto
 
