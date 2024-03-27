@@ -24,7 +24,7 @@ body {
   transform: translateX(-100%) translateY(-50%);
   height: 550px;
   width: 450px;
-  background-image: url(/Assets/img/img6.jpg);
+  background-image: url(../img/img6.jpg);
   background-size: contain;
   background-repeat: repeat;
 }
